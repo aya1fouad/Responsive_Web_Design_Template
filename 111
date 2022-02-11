@@ -1,0 +1,62 @@
+ <!--Start Screenshots Slider-->
+        <div class="owl-stage" style="transition: all 0.25s ease 0s; width: 1848px; transform: translate3d(-420px, 0px, 0px);">
+                <div class="owl-item cloned" style="width: 158px; margin-right: 10px;">
+                    <img src="images/screenshot-3.jpg" class="img-responsive" alt="Image">
+                </div>
+                <div class="owl-item cloned" style="width: 158px; margin-right: 10px;">
+                    <img src="images/screenshot-4.jpg" class="img-responsive" alt="Image">
+                </div><div class="owl-item cloned" style="width: 158px; margin-right: 10px;">
+                    <img src="images/screenshot-5.jpg" class="img-responsive" alt="Image">
+                </div>
+                <div class="owl-item active center" style="width: 158px; margin-right: 10px;">
+                    <img src="images/screenshot-1.jpg" class="img-responsive" >
+                </div>
+                <div class="owl-item active" style="width: 158px; margin-right: 10px;">
+                    <img src="images/screenshot-2.jpg" class="img-responsive" >
+                </div>
+                <div class="owl-item" style="width: 158px; margin-right: 10px;">
+                    <img src="images/screenshot-3.jpg" class="img-responsive" >
+                </div>
+                <div class="owl-item" style="width: 158px; margin-right: 10px;">
+                    <img src="images/screenshot-4.jpg" class="img-responsive" >
+                </div>
+                <div class="owl-item" style="width: 158px; margin-right: 10px;">
+                    <img src="images/screenshot-5.jpg" class="img-responsive" alt="Image">
+                </div>
+                <div class="owl-item cloned" style="width: 158px; margin-right: 10px;">
+                    <img src="images/screenshot-1.jpg" class="img-responsive" alt="Image">
+                </div>
+                <div class="owl-item cloned" style="width: 158px; margin-right: 10px;">
+                    <img src="images/screenshot-2.jpg" class="img-responsive" alt="Image">
+                </div>
+                <div class="owl-item cloned" style="width: 158px; margin-right: 10px;">
+                    <img src="images/screenshot-3.jpg" class="img-responsive" alt="Image">
+                </div>
+            </div>
+        </div>
+        <div class="owl-nav">
+            <div class="owl-prev">
+                <i class="icofont icofont-simple-left"></i>
+            </div>
+            <div class="owl-next">
+                <i class="icofont icofont-simple-right"></i>
+            </div>
+        </div>
+        <div class="owl-dots">
+            <div class="owl-dot active">
+                <span></span>
+            </div>
+            <div class="owl-dot">
+                <span></span>
+            </div>
+            <div class="owl-dot">
+                <span></span>
+            </div>
+            <div class="owl-dot">
+                <span></span>
+            </div>
+            <div class="owl-dot">
+                <span></span>
+            </div>
+    
+        <!--End Screenshots Slider-->
